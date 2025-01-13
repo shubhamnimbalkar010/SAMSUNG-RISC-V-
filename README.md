@@ -10,3 +10,6 @@
 
 # got 12 instructions running for O1 command
 ![Screenshot from 2025-01-06 20-46-33](https://github.com/user-attachments/assets/82dc171f-7d4d-467f-a721-1d8a37c5e6c2)
+
+# updated code for clculation of sum from 1 to 100
+![Screenshot from 2025-01-13 23-27-12](https://github.com/user-attachments/assets/c87712d8-b41a-4c4c-821d-7de942e878de)
