@@ -24,3 +24,6 @@
 
 ## Debugging:
 ![Screenshot from 2025-01-13 23-48-35](https://github.com/user-attachments/assets/697ff672-fb43-4302-8cc6-0ca3e838956b)
+
+## Task 3
+<img width="386" alt="Screenshot 2025-01-17 210025" src="https://github.com/user-attachments/assets/d0355652-95ba-4c9b-a21e-3ffa149d0fcd" />
