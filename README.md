@@ -1,4 +1,4 @@
-# SAMSUNG-RISC-V-
+z# SAMSUNG-RISC-V-
 # Task 1
 ## executed sample code in c language
 ![Screenshot from 2025-01-06 22-10-31](https://github.com/user-attachments/assets/fd75e410-730f-4071-b8b9-a5381ffd054b)
