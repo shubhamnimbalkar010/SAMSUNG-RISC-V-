@@ -27,3 +27,10 @@
 
 ## Task 3
 <img width="386" alt="Screenshot 2025-01-17 210025" src="https://github.com/user-attachments/assets/d0355652-95ba-4c9b-a21e-3ffa149d0fcd" />
+
+## Task 4
+## these in structions are executed one by one
+![Screenshot 2025-01-24 230254](https://github.com/user-attachments/assets/e8584c07-11d3-41f2-bb83-7860914651d9)
+
+## add r6,r1,r2.(i1)
+
