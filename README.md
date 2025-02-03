@@ -55,3 +55,7 @@ ser-attachments/assets/5a2eda40-7023-4787-b9d4-b1d7bd51f8a0)
 ![Screenshot from 2025-01-24 23-06-40](https://github.com/user-attachments/assets/f0c04d45-6c4d-498e-a68a-8958df7158dd)
 ## add r14,r2,r2.(i11)
 ![Screenshot from 2025-01-24 23-06-42](https://github.com/user-attachments/assets/38a14de6-f5c3-4e08-92c6-702a62adb7da)
+
+
+## Task 5- Smart Lighting System with IR Sensor
+[RISC-V Project.pdf](https://github.com/user-attachments/files/18646402/RISC-V.Project.pdf)
